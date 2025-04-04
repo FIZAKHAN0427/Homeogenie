@@ -1,6 +1,4 @@
-Here's the complete, properly formatted README.md in a single file:
 
-```markdown
 # Homeogenie  
 🏥 Medical Chatbot API  
 
