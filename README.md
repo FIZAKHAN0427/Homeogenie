@@ -63,7 +63,7 @@ Replace `your_groq_api_key_here` with your actual API key.
 ## ▶️ Running the Application  
 Start the FastAPI server:  
 ```bash
-python -m main
+python run.py
 ```  
 
 The API will be available at:  
